@@ -13,3 +13,4 @@ license.piriform.com
 keystone-akamai.mwbsys.com
 keystone.mwbsys.com
 android.clients.google.com
+captchaverifier.top
