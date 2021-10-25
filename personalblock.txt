@@ -1,7 +1,5 @@
 analytics.ff.avast.com
 ipm-provider.ff.avast.com
-license.piriform.com
-www.ccleaner.com
 shepherd.ff.avast.concc.avast.com
 ncc.avast.com.edgesuite.net
 ip-info.ff.avast.com
