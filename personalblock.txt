@@ -1,3 +1,4 @@
+# COMUNES
 analytics.ff.avast.com
 ipm-provider.ff.avast.com
 shepherd.ff.avast.concc.avast.com
@@ -9,6 +10,8 @@ llamame.cl
 caliente.mx
 android.clients.google.com
 captchaverifier.top
+www.googletagmanager.com
+secure.quantserver.com
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
