@@ -12,6 +12,7 @@ android.clients.google.com
 captchaverifier.top
 www.googletagmanager.com
 secure.quantserver.com
+sb.scorecardresearch.com
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
