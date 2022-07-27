@@ -13,6 +13,7 @@ captchaverifier.top
 www.googletagmanager.com
 secure.quantserver.com
 sb.scorecardresearch.com
+bbva.mx.accesodigital.bbva.mx.portal369.xyz
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
