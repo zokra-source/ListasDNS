@@ -1,1 +1,16 @@
 ## Lista Blanca ##
+#
+graph.facebook.com
+au.ff.avast.sec.miui.com
+#mqtt-mini.facebook.com
+www.muycomputer.com
+connect.facebook.net
+social*.toonblast.net
+api-global.us-east-1.origin.prodaa.netflix.com
+*gvt*.com
+download.visualstudio.microsoft.com
+graph.instagram.com
+msedge.f.tlu.dl.delivery.mp.microsoft.com
+*geo.kaspersky.com
+download.sysinternals.com
+download.windowsupdate.com
