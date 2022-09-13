@@ -1,19 +1,22 @@
 # COMUNES
-analytics.ff.avast.com
-ipm-provider.ff.avast.com
-shepherd.ff.avast.concc.avast.com
-ncc.avast.com.edgesuite.net
-ip-info.ff.avast.com
+captchaverifier.top
 bstream.hzmklvdieo.com
 grs.dbankcloud
 llamame.cl
 caliente.mx
-android.clients.google.com
 captchaverifier.top
+googleadservices.com
+cinepornogratis.com
 www.googletagmanager.com
 secure.quantserver.com
 sb.scorecardresearch.com
+i*n.mclean.*union.com
+beap.gemini.yahoo.com
+pr.hair-transplants-info.click
+doubleplay-conf-yql.media.yahoo.com
 bbva.mx.accesodigital.bbva.mx.portal369.xyz
+video-akpcw-cdn-spotify-com.akamaized.net
+#scontent.xx.fbcdn.net
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
