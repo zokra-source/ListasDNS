@@ -21,7 +21,7 @@ video-akpcw-cdn-spotify-com.akamaized.net
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
 keystone.mwbsys.com
-serius.mwbsys.com
+sirius.mwbsys.com
 
 # Relacionado con PiriForm (Recuva, Ccleaner, etc)
 license.piriform.com
