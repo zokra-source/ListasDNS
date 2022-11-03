@@ -31,6 +31,17 @@ defraggler.piriform.com
 ccleaner.piriform.com
 license-api.ccleaner.com
 
+# Relacionado con la activación de adobe
+#
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+practivate.adobe.com
+activate.adobe.com
+genuine.adobe.com
+prod.adobegenuine.com
+
 # TikTok ads and analytics (also in my smartphone ads and tracking blocklist)
 
 ads.tiktok.com
