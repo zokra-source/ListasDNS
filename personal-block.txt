@@ -33,13 +33,24 @@ license-api.ccleaner.com
 
 # Relacionado con la activación de adobe
 #
+activate.wip3.adobe.com
+ereg.adobe.com
+ereg.wip3.adobe.com
 lmlicenses.wip4.adobe.com
+activate.wip4.adobe.com
+genuine.adobe.com
+activate.adobe.com
+practivate.adobe.com
+practivate-da1.adobe.com
+activate-sea.adobe.com
+activate-sjc0.adobe.com
+license.adobe.com
 lm.licenses.adobe.com
+uds.licenses.adobe.com
+lm-prd-da1.licenses.adobe.com
 na1r.services.adobe.com
 hlrcv.stage.adobe.com
-practivate.adobe.com
-activate.adobe.com
-genuine.adobe.com
+wwis-dubc1-vip60.adobe.com
 prod.adobegenuine.com
 
 # TikTok ads and analytics (also in my smartphone ads and tracking blocklist)
