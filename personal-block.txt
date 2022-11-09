@@ -16,6 +16,7 @@ pr.hair-transplants-info.click
 doubleplay-conf-yql.media.yahoo.com
 bbva.mx.accesodigital.bbva.mx.portal369.xyz
 video-akpcw-cdn-spotify-com.akamaized.net
+ads.gadsme.com
 #scontent.xx.fbcdn.net
 
 # Relacionado con MalwareBytes
