@@ -14,3 +14,4 @@ msedge.f.tlu.dl.delivery.mp.microsoft.com
 *geo.kaspersky.com
 download.sysinternals.com
 download.windowsupdate.com
+cdn4.mxpnl.com
