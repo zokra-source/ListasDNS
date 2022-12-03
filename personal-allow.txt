@@ -7,12 +7,14 @@ www.muycomputer.com
 connect.facebook.net
 social*.toonblast.net
 api-global.us-east-1.origin.prodaa.netflix.com
-*gvt*.com
+#*gvt*.com
 download.visualstudio.microsoft.com
 graph.instagram.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
-*geo.kaspersky.com
+geo.kaspersky.com
 download.sysinternals.com
 download.windowsupdate.com
 ##cdn4.mxpnl.com
-*googletagmanager.com
+##googletagmanager.com
+##www.googletagmanager.com
+/*googletagmanager.com*$/
