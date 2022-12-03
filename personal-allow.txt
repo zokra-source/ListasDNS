@@ -15,4 +15,4 @@ msedge.f.tlu.dl.delivery.mp.microsoft.com
 download.sysinternals.com
 download.windowsupdate.com
 ##cdn4.mxpnl.com
-googletagmanager.com
+*googletagmanager.com
