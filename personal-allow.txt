@@ -17,4 +17,3 @@ download.windowsupdate.com
 ##cdn4.mxpnl.com
 ##googletagmanager.com
 ##www.googletagmanager.com
-/^(www|)googletagmanager\.com$/
