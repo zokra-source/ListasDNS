@@ -5,9 +5,8 @@ au.ff.avast.sec.miui.com
 #mqtt-mini.facebook.com
 www.muycomputer.com
 connect.facebook.net
-social*.toonblast.net
+#social*.toonblast.net
 api-global.us-east-1.origin.prodaa.netflix.com
-#*gvt*.com
 download.visualstudio.microsoft.com
 graph.instagram.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
@@ -17,3 +16,4 @@ download.windowsupdate.com
 ##cdn4.mxpnl.com
 googletagmanager.com
 www.googletagmanager.com
+fonts.gstatic.com
