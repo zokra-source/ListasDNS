@@ -15,5 +15,5 @@ geo.kaspersky.com
 download.sysinternals.com
 download.windowsupdate.com
 ##cdn4.mxpnl.com
-##googletagmanager.com
-##www.googletagmanager.com
+googletagmanager.com
+www.googletagmanager.com
