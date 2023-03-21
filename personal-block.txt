@@ -19,6 +19,8 @@ bbva.mx.accesodigital.bbva.mx.portal369.xyz
 video-akpcw-cdn-spotify-com.akamaized.net
 ads.gadsme.com
 #scontent.xx.fbcdn.net
+jdcloud.com
+wwads.cn
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
