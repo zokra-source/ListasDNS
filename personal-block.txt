@@ -56,3 +56,7 @@ na1r.services.adobe.com
 hlrcv.stage.adobe.com
 wwis-dubc1-vip60.adobe.com
 prod.adobegenuine.com
+
+# Facebook
+adp.facebook.com
+ads.facebook.com
