@@ -21,6 +21,7 @@ ads.gadsme.com
 #scontent.xx.fbcdn.net
 jdcloud.com
 wwads.cn
+clients3.google.com
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
@@ -60,3 +61,11 @@ prod.adobegenuine.com
 # Facebook
 adp.facebook.com
 ads.facebook.com
+lookaside.facebook.com
+b-api.facebook.com
+api.facebook.com
+b-graph.facebook.com
+chat-e2ee-mini.facebook.com
+edge-mqtt.facebook.com
+gateway.facebook.com
+android.clients.google.com
