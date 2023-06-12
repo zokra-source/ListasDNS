@@ -22,6 +22,7 @@ ads.gadsme.com
 jdcloud.com
 wwads.cn
 clients3.google.com
+ip.taobao.com
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
