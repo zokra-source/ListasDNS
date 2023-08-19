@@ -62,7 +62,7 @@ prod.adobegenuine.com
 # Facebook
 adp.facebook.com
 ads.facebook.com
-lookaside.facebook.com
+#lookaside.facebook.com
 b-api.facebook.com
 api.facebook.com
 b-graph.facebook.com
