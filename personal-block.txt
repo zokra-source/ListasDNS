@@ -7,7 +7,6 @@ caliente.mx
 captchaverifier.top
 googleadservices.com
 cinepornogratis.com
-www.googletagmanager.com
 secure.quantserver.com
 sb.scorecardresearch.com
 eu.mclean.50union.com
@@ -21,8 +20,12 @@ ads.gadsme.com
 #scontent.xx.fbcdn.net
 jdcloud.com
 wwads.cn
-clients3.google.com
 ip.taobao.com
+
+## Google
+#android.clients.google.com
+#clients3.google.com
+www.googletagmanager.com
 
 # Relacionado con MalwareBytes
 keystone-akamai.mwbsys.com
@@ -69,4 +72,3 @@ api.facebook.com
 chat-e2ee-mini.facebook.com
 edge-mqtt.facebook.com
 gateway.facebook.com
-android.clients.google.com
