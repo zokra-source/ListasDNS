@@ -1,0 +1,65 @@
+# Lista personal de las páginas que voy checando y veo que es preciso bloquear
+#
+# COMUNES
+||bstream.hzmklvdieo.com^$important
+||grs.dbankcloud^$important
+||llamame.cl^$important
+||*caliente.mx^$important
+#||android.clients.google.com^$important
+||*.facebook.*/ads/about/^$important
+||*captchaverifier.top^$important
+||*googleadservices.com^$important
+||cinepornogratis.com^$important
+||www.googletagmanager.com^$important
+||secure.quantserver.com^$important
+||sb.scorecardresearch.com^$important
+||i*n.mclean.*union.com^$important
+||beap.gemini.yahoo.com^$important
+||pr.hair-transplants-info.click^$important
+||doubleplay-conf-yql.media.yahoo.com^$important
+||bbva.mx.accesodigital.bbva.mx.portal369.xyz^$important
+||video-akpcw-cdn-spotify-com.akamaized.net^$important
+||ads.gadsme.com^$important
+#||scontent.xx.fbcdn.net^$important
+||*jdcloud.com^$important
+||wwads.cn^$important
+#||clients3.google.com^$important
+
+# Relacionado con MalwareBytes
+#
+||keystone-akamai.mwbsys.com^$important
+||sirius.mwbsys.com^$important
+||keystone.mwbsys.com^$important
+
+# Relacionado con Piriform (Recuva, CCleaner, etc)
+#
+/(license|speccy|recuva|defraggler|ccleaner)\.piriform\.com/
+#||*license.piriform.com^$important
+||*license-api.ccleaner.com^$important
+#||speccy.piriform.com^$important
+#||recuva.piriform.com^$important
+#||defraggler.piriform.com^$important
+#||ccleaner.piriform.com^$important
+
+# Relacionado con Activación de Adobe
+#
+#||lmlicenses.wip4.adobe.com^$important
+#||lm.licenses.adobe.com^$important
+#||na1r.services.adobe.com^$important
+#||hlrcv.stage.adobe.com^$important
+#||practivate.adobe.com^$important
+#||activate.adobe.com^$important
+#||genuine.adobe.com^$important
+||prod.adobegenuine.com^$important
+/((activate|lmlicenses|ereg)\.wip[0-9]|(pr|)activate(\-(dal|sea|sjc0)|)|ereg|genuine|nalr\.services|hlrcv\.stage|wwis-dubc1-vip60|(lm\.|uds\.|lm-prd-dal\.|)license(s|))\.adobe\.com/
+
+# Facebook
+||adp.facebook.com^$important
+||ads.facebook.com^$important
+#||lookaside.facebook.com^$important
+||b-api.facebook.com^$important
+#||api.facebook.com^$important
+#||b-graph.facebook.com^$important
+#||chat-e2ee-mini.facebook.com^$important
+#||edge-mqtt.facebook.com^$important
+#||gateway.facebook.com^$important
