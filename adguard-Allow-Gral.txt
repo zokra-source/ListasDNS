@@ -1,0 +1,36 @@
+# Sitios permitidos
+#
+@@||www.muycomputer.com^$important
+@@||social*.toonblast.net^$important
+@@||api-global.us-east-1.origin.prodaa.netflix.com^$important
+@@||*gvt*.com^$important
+
+@@||app-measurement.com^$important
+
+## Antivirus
+@@||au.ff.avast.sec.miui.com^$important
+@@||*geo.kaspersky.com^$important
+
+## Redes sociales
+@@||graph.facebook.com^$important
+@@||mqtt-mini.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||graph.instagram.com^$important
+
+## Relacionadas con descargas de servidor de Microsoft
+@@||download.sysinternals.com^$important
+@@||download.windowsupdate.com^$important
+@@||msedge.f.tlu.dl.delivery.mp.microsoft.com^$important
+@@||download.visualstudio.microsoft.com^$important
+@@||wpc.v0cdn.net^$important
+
+##  Relacionado con Office.
+@@||hubble.officeapps.live.com^$important
+
+## Relacionada con script de fuentes de google
+@@||fonts.gstatic.com^$important
+
+## Relacionadas con ContPAQi Nube
+@@||cdn4.mxpnl.com^$important
+@@||googletagmanager.com^$important
+@@||az416426.vo.msecnd.net^$important
