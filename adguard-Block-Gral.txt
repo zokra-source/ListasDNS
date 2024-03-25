@@ -1,0 +1,8 @@
+# Garena
+/garena(now|)\.com/
+||ggbluefox.com^$important
+
+# FreeFire
+||freefiremobile.com^$important
+||107.150.116.24^$important
+||128.1.96.21^$important
