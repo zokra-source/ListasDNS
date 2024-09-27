@@ -6,6 +6,7 @@
 @@||*gvt*.com^$important
 #@@||firebase-settings.crashlytics.com^
 #@@||ecsv2.roblox.com^
+@@||sponsor.ajay.app^$important
 
 ## Relacionado con la localización por GPS
 @@||app-measurement.com^$important
