@@ -24,12 +24,17 @@
 ||*jdcloud.com^$important
 ||wwads.cn^$important
 #||clients3.google.com^$important
+||xgapromomanager-pa.googleapis.com^
+||sponsor.ajay.app^$important
 
 # Relacionado con MalwareBytes
 #
 ||keystone-akamai.mwbsys.com^$important
 ||sirius.mwbsys.com^$important
 ||keystone.mwbsys.com^$important
+
+# Internet Download Manager (IDM)
+/(www\.|)internetdownloadmanager\.com/
 
 # Relacionado con Piriform (Recuva, CCleaner, etc)
 #
