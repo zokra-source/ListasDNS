@@ -1,4 +1,4 @@
-# Sitios permitidos
+## Sitios permitidos
 #
 @@||www.muycomputer.com^$important
 @@||social*.toonblast.net^$important
@@ -7,6 +7,7 @@
 #@@||firebase-settings.crashlytics.com^
 #@@||ecsv2.roblox.com^
 
+## Relacionado con la localización por GPS
 @@||app-measurement.com^$important
 
 ## Antivirus
@@ -18,6 +19,7 @@
 @@||mqtt-mini.facebook.com^$important
 @@||connect.facebook.net^$important
 @@||graph.instagram.com^$important
+@@||b-graph.facebook.com^$important
 
 ## Relacionadas con descargas de servidor de Microsoft
 @@||download.sysinternals.com^$important
@@ -36,3 +38,15 @@
 @@||cdn4.mxpnl.com^$important
 @@||googletagmanager.com^$important
 @@||az416426.vo.msecnd.net^$important
+
+# Amazon Prime Video
+@@||api.us-east-1.aiv-delivery.net^$important
+@@||unagi-na.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||75964b9d9eef4a0a37faa533a64bf2670ca798cd847844b4a48f1e50d033346.us-east-1.prod.service.minerva.devices.a2z.com^$important
+
+# DriverPack solutions
+@@||dl.driverpack.io^$important
+
+#Pagina smtp2go
+@@||get.smtp2go.com^$important
