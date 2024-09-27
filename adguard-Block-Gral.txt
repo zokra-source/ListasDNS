@@ -25,7 +25,6 @@
 ||wwads.cn^$important
 #||clients3.google.com^$important
 ||xgapromomanager-pa.googleapis.com^
-||sponsor.ajay.app^$important
 
 # Relacionado con MalwareBytes
 #
