@@ -21,6 +21,7 @@
 @@||connect.facebook.net^$important
 @@||graph.instagram.com^$important
 @@||b-graph.facebook.com^$important
+@@||web.facebook.com^$important
 
 ## Relacionadas con descargas de servidor de Microsoft
 @@||download.sysinternals.com^$important
