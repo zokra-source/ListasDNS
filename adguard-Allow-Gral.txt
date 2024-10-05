@@ -2,10 +2,14 @@
 #
 @@||www.muycomputer.com^$important
 @@||social*.toonblast.net^$important
-@@||api-global.us-east-1.origin.prodaa.netflix.com^$important
 @@||*gvt*.com^$important
 #@@||firebase-settings.crashlytics.com^
 #@@||ecsv2.roblox.com^$important
+
+## Netflix
+@@||api-global.us-east-1.origin.prodaa.netflix.com^$important
+
+## Extensiones
 @@||sponsor.ajay.app^$important
 
 ## Relacionado con la localización por GPS
