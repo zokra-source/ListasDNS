@@ -5,7 +5,7 @@
 @@||api-global.us-east-1.origin.prodaa.netflix.com^$important
 @@||*gvt*.com^$important
 #@@||firebase-settings.crashlytics.com^
-#@@||ecsv2.roblox.com^
+#@@||ecsv2.roblox.com^$important
 @@||sponsor.ajay.app^$important
 
 ## Relacionado con la localización por GPS
@@ -39,6 +39,13 @@
 @@||cdn4.mxpnl.com^$important
 @@||googletagmanager.com^$important
 @@||az416426.vo.msecnd.net^$important
+
+# Asistente virtual ContPAQi iAdvize
+@@||halc.iadvize.com^$important
+@@||static.iadvize.com^$important
+@@||api.iadvize.com^$important
+@@||xmpp-ha-alb.iadvize.com^$important
+@@||fstatic.iadvize.com^$important
 
 # Amazon Prime Video
 @@||api.us-east-1.aiv-delivery.net^$important
