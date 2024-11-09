@@ -31,7 +31,7 @@
 ||keystone.mwbsys.com^
 
 # Internet Download Manager (IDM)
-/(www\.|)internetdownloadmanager\.com/
+||/(www\.|)internetdownloadmanager\.com/
 
 # Relacionado con Piriform (Recuva, CCleaner, etc)
 #
