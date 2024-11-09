@@ -1,66 +1,66 @@
 ## Sitios permitidos
 #
-@@||www.muycomputer.com^$important
-@@||social*.toonblast.net^$important
-@@||*gvt*.com^$important
+@@||www.muycomputer.com^
+@@||social*.toonblast.net^
+@@||*gvt*.com^
 #@@||firebase-settings.crashlytics.com^
-#@@||ecsv2.roblox.com^$important
+#@@||ecsv2.roblox.com^
 
 ## Netflix
-@@||api-global.us-east-1.origin.prodaa.netflix.com^$important
+@@||api-global.us-east-1.origin.prodaa.netflix.com^
 
 ## Extensiones
-@@||sponsor.ajay.app^$important
+@@||sponsor.ajay.app^
 
 ## Relacionado con la localización por GPS
-@@||app-measurement.com^$important
+@@||app-measurement.com^
 
 ## Antivirus
-@@||au.ff.avast.sec.miui.com^$important
-@@||*geo.kaspersky.com^$important
+@@||au.ff.avast.sec.miui.com^
+@@||*geo.kaspersky.com^
 
 ## Redes sociales
-@@||graph.facebook.com^$important
-@@||graph.instagram.com^$important
-@@||graph.whatsapp.com^$important
-@@||mqtt-mini.facebook.com^$important
-@@||connect.facebook.net^$important
-@@||b-graph.facebook.com^$important
-@@||web.facebook.com^$important
+@@||graph.facebook.com^
+@@||graph.instagram.com^
+@@||graph.whatsapp.com^
+@@||mqtt-mini.facebook.com^
+@@||connect.facebook.net^
+@@||b-graph.facebook.com^
+@@||web.facebook.com^
 
 ## Relacionadas con descargas de servidor de Microsoft
-@@||download.sysinternals.com^$important
-@@||download.windowsupdate.com^$important
-@@||msedge.f.tlu.dl.delivery.mp.microsoft.com^$important
-@@||download.visualstudio.microsoft.com^$important
-@@||wpc.v0cdn.net^$important
+@@||download.sysinternals.com^
+@@||download.windowsupdate.com^
+@@||msedge.f.tlu.dl.delivery.mp.microsoft.com^
+@@||download.visualstudio.microsoft.com^
+@@||wpc.v0cdn.net^
 
 ##  Relacionado con Office.
-@@||hubble.officeapps.live.com^$important
+@@||hubble.officeapps.live.com^
 
 ## Relacionada con script de fuentes de google
-@@||fonts.gstatic.com^$important
+@@||fonts.gstatic.com^
 
 ## Relacionadas con ContPAQi Nube
-@@||cdn4.mxpnl.com^$important
-@@||googletagmanager.com^$important
-@@||az416426.vo.msecnd.net^$important
+@@||cdn4.mxpnl.com^
+@@||googletagmanager.com^
+@@||az416426.vo.msecnd.net^
 
 # Asistente virtual ContPAQi iAdvize
-@@||halc.iadvize.com^$important
-@@||static.iadvize.com^$important
-@@||api.iadvize.com^$important
-@@||xmpp-ha-alb.iadvize.com^$important
-@@||fstatic.iadvize.com^$important
+@@||halc.iadvize.com^
+@@||static.iadvize.com^
+@@||api.iadvize.com^
+@@||xmpp-ha-alb.iadvize.com^
+@@||fstatic.iadvize.com^
 
 # Amazon Prime Video
-@@||api.us-east-1.aiv-delivery.net^$important
-@@||unagi-na.amazon.com^$important
-@@||fls-na.amazon.com^$important
-#@@||75964b9d9eef4a0a37faa533a64bf2670ca798cd847844b4a48f1e50d033346.us-east-1.prod.service.minerva.devices.a2z.com^$important
+@@||api.us-east-1.aiv-delivery.net^
+@@||unagi-na.amazon.com^
+@@||fls-na.amazon.com^
+#@@||75964b9d9eef4a0a37faa533a64bf2670ca798cd847844b4a48f1e50d033346.us-east-1.prod.service.minerva.devices.a2z.com^
 
 # DriverPack solutions
-@@||dl.driverpack.io^$important
+@@||dl.driverpack.io^
 
 #Pagina smtp2go
-@@||get.smtp2go.com^$important
+@@||get.smtp2go.com^
