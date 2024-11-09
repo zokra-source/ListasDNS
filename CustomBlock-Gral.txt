@@ -4,16 +4,14 @@
 ||bstream.hzmklvdieo.com^
 ||grs.dbankcloud^
 ||llamame.cl^
-||*caliente.mx^
+||caliente.mx^
 #||android.clients.google.com^
-||*.facebook.*/ads/about/^
-||*captchaverifier.top^
-||*googleadservices.com^
+||captchaverifier.top^
+||googleadservices.com^
 ||cinepornogratis.com^
 ||www.googletagmanager.com^
 ||secure.quantserver.com^
 ||sb.scorecardresearch.com^
-||i*n.mclean.*union.com^
 ||beap.gemini.yahoo.com^
 ||pr.hair-transplants-info.click^
 ||doubleplay-conf-yql.media.yahoo.com^
@@ -21,7 +19,7 @@
 ||video-akpcw-cdn-spotify-com.akamaized.net^
 ||ads.gadsme.com^
 #||scontent.xx.fbcdn.net^
-||*jdcloud.com^
+||jdcloud.com^
 ||wwads.cn^
 #||clients3.google.com^
 ||xgapromomanager-pa.googleapis.com^
@@ -38,8 +36,8 @@
 # Relacionado con Piriform (Recuva, CCleaner, etc)
 #
 /(license|speccy|recuva|defraggler|ccleaner)\.piriform\.com/
-#||*license.piriform.com^
-||*license-api.ccleaner.com^
+#||license.piriform.com^
+||license-api.ccleaner.com^
 #||speccy.piriform.com^
 #||recuva.piriform.com^
 #||defraggler.piriform.com^
