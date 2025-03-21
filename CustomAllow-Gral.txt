@@ -13,6 +13,15 @@
 @@||sponsor.ajay.app^
 
 ## Relacionado con la localización por GPS
+@@||voilatile-pa.googleapis.com^
+@@||location.googleapis.com^
+@@||www.googleapis.com^
+@@||play.googleapis.com^
+@@||clients4.google.com^
+@@||clients3.google.com^
+@@||time.google.com^
+@@||maps.googleapis.com^
+# Según la IA este no esta relacionado directamente con la ubicación pero la puede solicitar.
 @@||app-measurement.com^
 
 ## Antivirus
