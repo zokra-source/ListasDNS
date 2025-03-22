@@ -21,6 +21,7 @@
 @@||clients3.google.com^
 @@||time.google.com^
 @@||maps.googleapis.com^
+@@||geller-pa.googleapis.com^
 # Según la IA este no esta relacionado directamente con la ubicación pero la puede solicitar.
 @@||app-measurement.com^
 
