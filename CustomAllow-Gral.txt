@@ -30,13 +30,19 @@
 @@||*geo.kaspersky.com^
 
 ## Redes sociales
+# Facebook
 @@||graph.facebook.com^
-@@||graph.instagram.com^
-@@||graph.whatsapp.com^
 @@||mqtt-mini.facebook.com^
 @@||connect.facebook.net^
 @@||b-graph.facebook.com^
 @@||web.facebook.com^
+# Instagram
+@@||graph.instagram.com^
+# WhatsApp
+@@||dit.whatsapp.net^
+@@||graph.whatsapp.com^
+@@||traffic-nts-ip-assoc.xy.fbcdn.net^
+@@||sonar6.xy.fbcdn.net^
 
 ## Relacionadas con descargas de servidor de Microsoft
 @@||download.sysinternals.com^
@@ -68,6 +74,7 @@
 @@||unagi-na.amazon.com^
 @@||fls-na.amazon.com^
 #@@||75964b9d9eef4a0a37faa533a64bf2670ca798cd847844b4a48f1e50d033346.us-east-1.prod.service.minerva.devices.a2z.com^
+@@||*us-east-1.prod.service.minerva.devices.a2z.com^
 
 # DriverPack solutions
 @@||dl.driverpack.io^
