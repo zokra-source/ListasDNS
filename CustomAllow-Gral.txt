@@ -1,18 +1,19 @@
-## Sitios permitidos
-#
+###################################################################
+# Sitios permitidos
+###################################################################
 @@||www.muycomputer.com^
 @@||social*.toonblast.net^
 @@||*gvt*.com^
 #@@||firebase-settings.crashlytics.com^
 #@@||ecsv2.roblox.com^
 
-## Netflix
+# Netflix
 @@||api-global.us-east-1.origin.prodaa.netflix.com^
 
-## Extensiones
+# Extensiones
 @@||sponsor.ajay.app^
 
-## Relacionado con la localización por GPS
+# Relacionado con la localización por GPS
 @@||voilatile-pa.googleapis.com^
 @@||location.googleapis.com^
 @@||www.googleapis.com^
@@ -83,3 +84,10 @@
 
 #Pagina smtp2go
 @@||get.smtp2go.com^
+
+###########################################################
+# Especificos para un cliente en particular.
+###########################################################
+@@||checkip.dyndns.org^$client='192.168.1.11'
+@@||servidor.owicron.com^$client='192.168.1.96'
+@@||cloud.owicron.com^$client='192.168.1.96'
