@@ -42,7 +42,7 @@
 # WhatsApp
 @@||dit.whatsapp.net^
 @@||graph.whatsapp.com^
-@@||traffic-nts-ip-assoc.xy.fbcdn.net^
+#@@||traffic-nts-ip-assoc.xy.fbcdn.net^
 @@||sonar6.xy.fbcdn.net^
 
 ## Relacionadas con descargas de servidor de Microsoft
