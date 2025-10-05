@@ -64,4 +64,5 @@
 #||b-graph.facebook.com^
 #||chat-e2ee-mini.facebook.com^
 #||edge-mqtt.facebook.com^
-#||gateway.facebook.com^
+||gateway.facebook.com^
+||z-m-gateway.facebook.com^
