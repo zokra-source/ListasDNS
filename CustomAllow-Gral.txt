@@ -32,9 +32,9 @@
 
 ## Redes sociales
 # Facebook
-@@||graph.facebook.com^
+#@@||graph.facebook.com^
 @@||mqtt-mini.facebook.com^
-@@||connect.facebook.net^
+#@@||connect.facebook.net^
 @@||b-graph.facebook.com^
 @@||web.facebook.com^
 # Instagram
