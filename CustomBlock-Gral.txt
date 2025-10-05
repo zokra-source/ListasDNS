@@ -58,11 +58,15 @@
 # Facebook
 ||adp.facebook.com^
 ||ads.facebook.com^
+||ads.ak.facebook.com^
+||an.facebook.com^
 #||lookaside.facebook.com^
 ||b-api.facebook.com^
 #||api.facebook.com^
 #||b-graph.facebook.com^
 #||chat-e2ee-mini.facebook.com^
 #||edge-mqtt.facebook.com^
+||creative.ak.fbcdn.net^
 ||gateway.facebook.com^
 ||z-m-gateway.facebook.com^
+||staticxx.facebook.com^
