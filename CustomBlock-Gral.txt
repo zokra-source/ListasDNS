@@ -68,5 +68,5 @@
 #||edge-mqtt.facebook.com^
 ||creative.ak.fbcdn.net^
 ||gateway.facebook.com^
-||z-m-gateway.facebook.com^
+#||z-m-gateway.facebook.com^
 ||staticxx.facebook.com^
