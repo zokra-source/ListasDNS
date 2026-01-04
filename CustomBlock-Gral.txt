@@ -23,6 +23,7 @@
 ||wwads.cn^
 #||clients3.google.com^
 ||xgapromomanager-pa.googleapis.com^
+||www.marca.com^
 
 # Relacionado con MalwareBytes
 #
