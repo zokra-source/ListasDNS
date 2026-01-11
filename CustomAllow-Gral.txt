@@ -42,6 +42,7 @@
 # WhatsApp
 @@||dit.whatsapp.net^
 @@||graph.whatsapp.com^
+@@||crashlogs.whatsapp.net^
 #@@||traffic-nts-ip-assoc.xy.fbcdn.net^
 @@||sonar6.xy.fbcdn.net^
 
