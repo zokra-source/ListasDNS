@@ -7,3 +7,4 @@ test.stats.update.microsoft.com
 ntservicepack.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 fe2cr.update.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
