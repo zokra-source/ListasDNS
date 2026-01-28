@@ -1,0 +1,9 @@
+windowsupdate.microsoft.com
+update.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
+download.microsoft.com
+test.stats.update.microsoft.com
+ntservicepack.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+fe2cr.update.microsoft.com
