@@ -33,6 +33,8 @@
 # Norton
 @@||ipm.avcdn.net^
 @@||avcdn.net^
+@@||avast.com^
+@@||ff.avast.com^
 
 ## Redes sociales
 # Facebook
