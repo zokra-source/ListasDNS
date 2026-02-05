@@ -28,8 +28,11 @@
 
 ## Antivirus
 @@||au.ff.avast.sec.miui.com^
+# Kaspersky
 @@||geo.kaspersky.com^
-@@||ipm.avcdn.net^ # Norton
+# Norton
+@@||ipm.avcdn.net^
+@@||avcdn.net^
 
 ## Redes sociales
 # Facebook
