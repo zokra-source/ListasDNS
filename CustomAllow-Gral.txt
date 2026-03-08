@@ -11,6 +11,7 @@
 @@||api-global.us-east-1.origin.prodaa.netflix.com^
 @@||logs.netflix.com^
 @@||ichnaea.netflix.com^
+@@||ichnaea-web.netflix.com^
 @@||customerevents.netflix.com^
 
 # Extensiones
