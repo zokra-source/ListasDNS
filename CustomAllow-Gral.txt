@@ -9,6 +9,9 @@
 
 # Netflix
 @@||api-global.us-east-1.origin.prodaa.netflix.com^
+@@||logs.netflix.com^
+@@||ichnaea.netflix.com^
+@@||customerevents.netflix.com^
 
 # Extensiones
 @@||sponsor.ajay.app^
@@ -92,8 +95,13 @@
 # DriverPack solutions
 @@||dl.driverpack.io^
 
-#Pagina smtp2go
+# Pagina smtp2go
 @@||get.smtp2go.com^
+
+# Samsung Smart TV
+@@||lcprd1.samsungcloudsolution.net^
+@@||dpu.samsungelectronics.com^
+@@||upu.samsungelectronics.com^
 
 ###########################################################
 # Especificos para un cliente en particular.
