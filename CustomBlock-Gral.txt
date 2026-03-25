@@ -71,3 +71,7 @@
 ||gateway.facebook.com^
 ||z-m-gateway.facebook.com^
 ||staticxx.facebook.com^
+
+# Xiaomi
+||cdn.awsusor1.fds.api.mi-img.com^
+||us-idm.api.io.mi.com^
