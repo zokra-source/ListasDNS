@@ -24,6 +24,12 @@
 #||clients3.google.com^
 ||xgapromomanager-pa.googleapis.com^
 ||www.marca.com^
+||www.softzone.es^
+
+# DNS
+||use-application-dns.net^$nxdomain
+||cloudflare-dns.com^$nxdomain
+||dns.nextdns.io^$nxdomain
 
 # Relacionado con MalwareBytes
 #
