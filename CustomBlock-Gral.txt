@@ -74,8 +74,8 @@
 #||chat-e2ee-mini.facebook.com^
 #||edge-mqtt.facebook.com^
 ||creative.ak.fbcdn.net^
-||gateway.facebook.com^
-||z-m-gateway.facebook.com^
+#||gateway.facebook.com^
+#||z-m-gateway.facebook.com^
 ||staticxx.facebook.com^
 
 # Xiaomi
